@@ -2,7 +2,7 @@
 
 At moment I'm still feeling like a developer student, and to be sincere Idk if one day this feeling will pass
 
-But I can say that I have work with I.T since 2016 at IBM Brazil. Started as a System Admin and since 2021 as a Python developer
+But I can say that I have work with I.T since 2016, first at IBM Brazil and now at EY(Ernst & Young) Brazil. Started as a System Admin, since 2021 as a Python developer and now working with python and javascript.
 
 I realized that because of confidentiality of the company, people don't know what I'm capable to do, 
 so this profile is to show it and the progress of my life as a developer 

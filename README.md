@@ -1,4 +1,6 @@
 <h1> Hi amazing person, welcome to my profile 😉 </h1>
+![menininha acenando olá](https://www.analemos.xyz/static/portfolio/img/char_base_ajustada.gif)
+
 
 At moment I'm still feeling like a developer student, and to be sincere Idk if one day this feeling will pass
 

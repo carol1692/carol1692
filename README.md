@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/carol1692/carol1692/blob/main/gif_base_branca_contorninho.gif" width="300" style="background-color: white;">
+  <img src="https://github.com/carol1692/carol1692/blob/main/ola_banner.gif" width="300" style="background-color: white;">
 </p> 
 
 <h1> Hi amazing person, welcome to my profile 😉 </h1>

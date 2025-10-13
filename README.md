@@ -18,12 +18,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carol1692&layout=compact&langs_count=8)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carol1692&show_icons=true&hide=prs&count_private=true)
 
-## Program Languages
+## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## Frameworks and Libraries
+## Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -36,7 +36,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?style=for-the-badge)
 
-## Management and Tests
+## Testing & Management Tools
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white)
 ![SOAP UI](https://img.shields.io/badge/SOAP_UI-6DB33F?style=for-the-badge)
 ![IBM TWS](https://img.shields.io/badge/IBM%20TWS-0530ad?style=for-the-badge)
@@ -47,14 +47,14 @@
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## DevOps and Control version
+## Version Control & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## Methodology e Logic
+## Methodologies & Logic
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![SaFe](https://img.shields.io/badge/SAFe-003366?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
@@ -64,7 +64,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## IDEs and tools
+## IDEs & Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
 ![Deploy de Aplicações](https://img.shields.io/badge/Deploy-008000?style=for-the-badge)

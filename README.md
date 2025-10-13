@@ -58,7 +58,9 @@
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![SaFe](https://img.shields.io/badge/SAFe-003366?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-4B0082?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=for-the-badge)
+
+
 
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

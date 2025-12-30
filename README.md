@@ -16,10 +16,7 @@
   I doubt someone will read this. But it's fun renovate this profile when I'm feeling happy and calm after so many years feeling I was in a race against the time. 
 </div>
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=carol1692&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carol1692&layout=compact&theme=dracula)
-
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carol1692&layout=compact&theme=dracula)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -16,8 +16,8 @@
   I doubt someone will read this. But it's fun renovate this profile when I'm feeling happy and calm after so many years feeling I was in a race against the time. 
 </div>
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=carol162&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carol1692&layout=compact&theme=dracula)
 
 
 

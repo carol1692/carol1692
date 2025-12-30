@@ -16,7 +16,7 @@
   I doubt someone will read this. But it's fun renovate this profile when I'm feeling happy and calm after so many years feeling I was in a race against the time. 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carol1692&layout=compact&langs_count=8)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carol1692&show_icons=true&hide=prs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carol1692&layout=compact&langs_count=8)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carol1692)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
